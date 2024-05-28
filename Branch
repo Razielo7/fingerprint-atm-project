@@ -16,3 +16,5 @@
 3. Usability:
    - The system shall provide clear instructions and feedback to users.
    - The system shall have an intuitive user interface for ease of use.
+4. Reliability:
+   - The system shall have a mean time between failures (MTBF) of at least 10,000 hours.
