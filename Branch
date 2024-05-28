@@ -1,0 +1,18 @@
+# System Requirements
+
+## Functional Requirements:
+1. The system shall authenticate users using fingerprint biometrics.
+2. The system shall allow users to perform cash withdrawals, balance inquiries, and account transfers.
+3. The system shall generate receipts for successful transactions.
+4. The system shall maintain transaction logs for auditing purposes.
+
+## Non-Functional Requirements:
+1. Security:
+   - The system shall encrypt communication between the ATM and the central server.
+   - The system shall enforce access control to restrict unauthorized access.
+2. Performance:
+   - The system shall process transactions within 10 seconds.
+   - The system shall support concurrent transactions from multiple users.
+3. Usability:
+   - The system shall provide clear instructions and feedback to users.
+   - The system shall have an intuitive user interface for ease of use.
